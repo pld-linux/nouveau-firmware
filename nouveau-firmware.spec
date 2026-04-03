@@ -4,7 +4,7 @@
 Summary:	Firmware for the Nouveau driver
 Name:		%{nameprog}-firmware
 Version:	20091212
-Release:	1
+Release:	2
 License:	distributable
 Group:		Base/Kernel
 Source0:	http://people.freedesktop.org/~pq/nouveau-drm/nouveau-firmware-%{version}.tar.gz
